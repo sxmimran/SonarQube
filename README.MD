@@ -10,7 +10,7 @@ CD into the cloned project root and run `docker-compose up`
 
 To run the Sonar Scanner,Follow the steps below.   
 NOTE:
-`SONAR_TOKEN` & `Source Path` path needs to be change accordingly
+`SONAR_TOKEN` & `Source Path` path needs to be change accordingly  
 
 STEP:01
 ```
